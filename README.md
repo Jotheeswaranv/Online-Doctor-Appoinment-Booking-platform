@@ -4,7 +4,7 @@ A modern web application built with **React.js** that allows users to search for
 
 ---
 To see the pverview of the Project click below
-[📄 View the presentation (PDF)](Online Doctor Appoinment.pdf)
+[Online Doctor Appointment.pdf]
 
 
 ##  Features
